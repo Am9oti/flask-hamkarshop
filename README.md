@@ -15,7 +15,7 @@ Flask Product Shop
 کلون پروژه:
 
 
-git clone https://github.com/Am9oti/flask-hamkarshop/Flask.zip
+git clone https://github.com/Am9oti/flask-hamkarshop.git
 unzip Flask.zip
 cd Flask
 نصب وابستگی‌ها:
