@@ -16,7 +16,11 @@ Flask Product Shop
 
 
 git clone https://github.com/Am9oti/flask-hamkarshop.git
+
+
 unzip Flask.zip
+
+
 cd Flask
 
 نصب وابستگی‌ها:
