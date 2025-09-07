@@ -18,6 +18,9 @@ Flask Product Shop
 git clone https://github.com/Am9oti/flask-hamkarshop.git
 
 
+cd flask-hamkarshop
+
+
 unzip Flask.zip
 
 
